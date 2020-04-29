@@ -1,3 +1,20 @@
-* {
-    border: 1px dotted red;
+
+.body {
+    display: inline-block;
+    max-width: max-content;
+    background-color: green;
+    color: rgb(10, 133, 241);
+    
+
+    
+}
+.header {
+    display: inline-block;
+    font-size: xx-large;
+    font-weight: bolder;
+    background-image: url("/src/images/background-image.jpg") ;
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 300px;
+    color: yellow
 }
